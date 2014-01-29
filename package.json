@@ -1,0 +1,24 @@
+{
+  "name": "qdebounce",
+  "version": "0.0.2",
+  "description": "The _.debounce made for Q Promise",
+  "keywords": [
+    "q",
+    "promise",
+    "debounce",
+    "throttling",
+    "throttle"
+  ],
+  "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>",
+  "dependencies" : {
+    "q": "0.9.7"
+  },
+  "devDependencies": {
+  },
+  "main": "index.js",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gre/qdebounce.git"
+  }
+}
