@@ -1,6 +1,6 @@
 {
   "name": "qdebounce",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "The _.debounce made for Q Promise",
   "keywords": [
     "q",
