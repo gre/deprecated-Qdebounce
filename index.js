@@ -1,4 +1,5 @@
 var Q = require("q");
+var _ = require("lodash");
 
 function Qdebounce (func, wait) {
     var promise = Q();
